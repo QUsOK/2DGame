@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\target\jeu_java-1-jar-with-dependencies.jar</jar>
+  <outfile>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\Jeu2D.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>survivor_game.App</mainClass>
+    <cp>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\Jeu2D.exe</cp>
+    <cp>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\javafx.controls.jar</cp>
+    <cp>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\javafx.fxml.jar</cp>
+    <cp>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\javafx.graphics.jar</cp>
+    <cp>D:\Marc\EPITECH\Cours\Projet\T-JAV-501\jeu_java\javafx.media.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

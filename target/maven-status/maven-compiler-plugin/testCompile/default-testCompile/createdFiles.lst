@@ -1,0 +1,14 @@
+test_survivor_game\AppTest.class
+test_survivor_game\Characters\ZombieTest.class
+test_survivor_game\scratch\BoutonTest.class
+test_survivor_game\Weapon\PistoletTest.class
+test_survivor_game\Characters\PersonnageTest.class
+test_survivor_game\Collisions\EtageTest.class
+test_survivor_game\Collisions\SolTest.class
+test_survivor_game\scratch\SonTest.class
+test_survivor_game\Characters\FantomeTest.class
+test_survivor_game\ProjectileTest.class
+test_survivor_game\Weapon\MitrailletteTest.class
+test_survivor_game\scratch\TexteTest.class
+test_survivor_game\Collisions\ResultatCollisionTest.class
+test_survivor_game\Weapon\BombeTest.class
